@@ -11,7 +11,7 @@
   <groupId>com.github.jinahya</groupId>
   <artifactId>executable-jar-with-maven-example</artifactId>
   <version>0.8.4</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <name>${project.artifactId}</name>
   <description>an example for generating executable jars with maven</description>
